@@ -1,0 +1,4 @@
+#Wed Jan 17 11:26:07 CST 2018
+base.0=D\:\\android-studio\\projects\\FragmentDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=D\:\\android-studio\\projects\\FragmentDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex

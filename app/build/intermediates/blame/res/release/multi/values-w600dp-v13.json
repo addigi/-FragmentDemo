@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\android-studio\\projects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\release\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\375288325b54dcec348af44813a02ead\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 63,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\375288325b54dcec348af44813a02ead\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 54,
+                        "endOffset": 408
+                    }
+                }
+            }
+        ]
+    }
+]

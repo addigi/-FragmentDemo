@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\android-studio\\projects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\release\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.1.aar\\375288325b54dcec348af44813a02ead\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    }
+]

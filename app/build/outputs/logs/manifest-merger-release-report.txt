@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\375288325b54dcec348af44813a02ead\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\b60d1625d1318e8dab2170fffded8c34\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:7:22-69
+application
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\375288325b54dcec348af44813a02ead\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\375288325b54dcec348af44813a02ead\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\b60d1625d1318e8dab2170fffded8c34\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\b60d1625d1318e8dab2170fffded8c34\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:11:9-44
+	android:allowBackup
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:13:9-59
+activity#com.ande.yigou.LoginActivity
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:17:13-45
+	android:background
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:16:13-51
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:15:13-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.ande.yigou.MainActivity
+ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml:25:13-55
+uses-sdk
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\375288325b54dcec348af44813a02ead\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\375288325b54dcec348af44813a02ead\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\b60d1625d1318e8dab2170fffded8c34\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\b60d1625d1318e8dab2170fffded8c34\AndroidManifest.xml:20:5-43
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android-studio\projects\FragmentDemo\app\src\main\AndroidManifest.xml

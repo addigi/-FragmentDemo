@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android-studio\\projects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\yigou_logo.png",
+        "source": "D:\\android-studio\\projects\\FragmentDemo\\app\\src\\main\\res\\drawable-ldpi\\yigou_logo.png"
+    },
+    {
+        "merged": "D:\\android-studio\\projects\\FragmentDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo_bg.png",
+        "source": "D:\\android-studio\\projects\\FragmentDemo\\app\\src\\main\\res\\drawable-ldpi\\logo_bg.png"
+    }
+]
